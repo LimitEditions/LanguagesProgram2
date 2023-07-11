@@ -63,8 +63,6 @@
 // 5 -> 1, 8, 27, 64, 125
 
 
-// Console.WriteLine("Hello, World!");
-
 // Console.WriteLine("Введите число");
 // int num = Convert.ToInt32(Console.ReadLine());
 
